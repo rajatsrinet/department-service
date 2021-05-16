@@ -1,0 +1,6 @@
+com\rajatsrinet\department\service\DepartmentServiceImpl.class
+com\rajatsrinet\department\DepartmentApplication.class
+com\rajatsrinet\department\entity\Department.class
+com\rajatsrinet\department\service\DepartmentService.class
+com\rajatsrinet\department\controller\DepartmentController.class
+com\rajatsrinet\department\reporitory\DepartmentRepository.class
