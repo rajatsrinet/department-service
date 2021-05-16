@@ -24,13 +24,13 @@ public class DepartmentController {
 
 	@PostMapping("/")
 	public Department saveDepartment(@RequestBody Department department) {
-		log.info("in save department");
+		log.info("in save department ");
 		return departmentService.saveDepartment(department);
 	}
 	
 	@GetMapping("/{id}")
 	public Department findDepartmentById(@PathVariable("id") Long id) {
-		log.info("get save department");
+		log.info("get save department ");
 		return departmentService.findDepartment(id);
 	}
 	
