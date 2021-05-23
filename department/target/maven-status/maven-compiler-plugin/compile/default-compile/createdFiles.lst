@@ -1,6 +1,9 @@
 com\rajatsrinet\department\service\DepartmentServiceImpl.class
 com\rajatsrinet\department\DepartmentApplication.class
+META-INF\MANIFEST.MF
 com\rajatsrinet\department\entity\Department.class
 com\rajatsrinet\department\service\DepartmentService.class
+META-INF\maven\com.rajatsrinet\department\pom.properties
 com\rajatsrinet\department\controller\DepartmentController.class
+META-INF\maven\com.rajatsrinet\department\pom.xml
 com\rajatsrinet\department\reporitory\DepartmentRepository.class
